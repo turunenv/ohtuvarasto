@@ -1,3 +1,4 @@
+#python is fun!
 def main():
   print('testing')
 
