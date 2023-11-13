@@ -1,6 +1,4 @@
 from varasto import Varasto
-#testikommentti joka on yli 80 merkkiä pitkä......... assssssssssssssssssssssssssssssssssssssssssssssssssss
-
 
 def main():
     mehua = Varasto(100.0)
