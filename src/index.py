@@ -1,5 +1,5 @@
 from varasto import Varasto
-#testikommentti
+#testikommentti joka on yli 80 merkkiä pitkä......... assssssssssssssssssssssssssssssssssssssssssssssssssss
 
 
 def main():
